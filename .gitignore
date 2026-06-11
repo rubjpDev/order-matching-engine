@@ -3,6 +3,7 @@ out/
 build/
 .kotlin/
 *.class
+*.iml
 
 # Maven
 target/
